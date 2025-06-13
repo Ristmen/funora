@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983973384297",
+    "project_id": "funora-762a8",
+    "storage_bucket": "funora-762a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983973384297:android:3be0c31959a369af3252f8",
+        "android_client_info": {
+          "package_name": "com.pb.funora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983973384297-7p2g5m2k85h64id6rqiu7p502tkbl8tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pb.funora",
+            "certificate_hash": "6560f4a2d3942e06511ccec17ffcca791324eeb3"
+          }
+        },
+        {
+          "client_id": "983973384297-7ovrl84gvapil57tfka9qsanu6nih9aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTPQHDteJTFQXoCBRkQbytTaun5Ovtd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983973384297-7ovrl84gvapil57tfka9qsanu6nih9aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
